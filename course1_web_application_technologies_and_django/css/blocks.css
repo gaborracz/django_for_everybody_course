@@ -1,0 +1,79 @@
+
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+
+   body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    border-width: 5px;
+    border-style: solid;
+    border-color: crimson;
+    margin: 5px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 25%;
+}
+
+#two {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    margin: 5px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 25%;
+}
+
+#three {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    margin: 5px;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 25%;
+}
+
+#four {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    border-width: 5px;
+    border-style: solid;
+    border-color: chartreuse;
+    margin: 5px;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 25%;
+}
+
+#link {
+    position: fixed;
+    font-size: xx-large;
+    top: 0;
+    left: 50%;
+    background: #0a4b33;
+    font-family: 'Roboto', Corbel, Avenir, 'Lucida Grande', 'Lucida Sans', sans-serif;
+    color:  white; 
+}
+
+#a {
+    text-decoration: none;
+}
